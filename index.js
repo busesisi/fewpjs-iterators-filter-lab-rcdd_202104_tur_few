@@ -10,4 +10,4 @@ function fuzzyMatch(driversArr, string){
 
 function matchName(driversArr, string){
     return driversArr.filter((obj) => { return obj.name == string})
-} 
+}
