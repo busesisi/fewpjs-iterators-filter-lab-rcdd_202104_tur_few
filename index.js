@@ -11,4 +11,4 @@ function fuzzyMatch(driverNames, newString){
 
 function matchName(driversArr, newString){
     return driverNames.filter((obj) => { return obj.name == string})
-} 
+}
